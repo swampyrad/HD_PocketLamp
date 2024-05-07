@@ -1,0 +1,4 @@
+sprite PLMPA0, 20, 32{
+    offset 12, 32
+    patch PLMPA0, 0, 0
+}
